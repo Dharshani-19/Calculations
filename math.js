@@ -5,7 +5,7 @@ const sub=(a,b)=>{
     console.log(a-b)
 }
 const multiply=(a,b)=>{
-    console.log(a*b);
+    console.log(a+b);
 }
 const divide=(a,b)=>{
     console.log(a/b)
