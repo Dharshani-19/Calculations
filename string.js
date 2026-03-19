@@ -11,8 +11,8 @@ console.log(a);
 }
 trim("    JavaScript   ")
 
-function capitalize(values){
-    let a=values.toUpperCase();
-    console.log(a);
-}
-capitalize("javascript");
+// function capitalize(values){
+//     let a=values.toUpperCase();
+//     console.log(a);
+// }
+// capitalize("javascript");
