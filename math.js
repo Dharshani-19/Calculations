@@ -11,3 +11,4 @@ const multiply=(a,b)=>{
 add(10,20)
 sub(20,10)
 multiply(3,10);
+console.log("added value this is for cherry-pick");
