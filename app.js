@@ -1,4 +1,4 @@
 function data(){
-    console.log("for stashing purpose");
+    console.log("stashing purpose");
 }
 data();
